@@ -42,7 +42,7 @@ public class Ej02 {
         
         double resultado = (4/3) * PI * radioVolumen;
         
-        System.out.println("El volumen de la esfera es: " + resultado);
+        System.out.println("Volumen de la esfera es: " + resultado);
         
     }
 }
