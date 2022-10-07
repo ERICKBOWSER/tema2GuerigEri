@@ -58,12 +58,12 @@ public class EjemplosExpresionesLogicas {
 
         // NOMBRE
         System.out.println("Introduce tu nombre: ");
-        nombre = teclado.nextString();
+        nombre = teclado.nextLine();
 
         teclado.nextLine();
 
         System.out.println("Introduce tus apellidos: ");
-        apellidos = teclado.nextString();
+        apellidos = teclado.nextLine();
 
         System.out.println("Su nombre completo es " + nombre + " " + apellidos);
     
